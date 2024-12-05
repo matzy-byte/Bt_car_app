@@ -1,0 +1,51 @@
+# Gradle files
+.gradle/
+*.gradle
+gradle-app.setting
+.gradle-cache/
+
+# Local configuration
+/local.properties
+/.idea
+/.vscode
+
+# Build outputs
+/build/
+*/build/
+
+# Log files
+*.log
+
+# Dependency cache
+**/.gradle
+**/.mvn
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE specific folders
+.idea/
+/out/
+
+# Android Studio files
+/.gradle
+*.iml
+.gradle
+**/build/
+
+# Miscellaneous
+*.hprof
+.DS_Store
+Thumbs.db
+
+# build files
+build/
+.deploy/
+dist/
+artifacts/
+compile
+debug
+dev
